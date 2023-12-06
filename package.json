@@ -1,0 +1,6 @@
+{
+  "name": "com.tool.meshcombiner",
+  "version": "1.0.0",
+  "displayName": "MeshCombiner",
+  "description": "Create an object with a MeshCombiner component in the Unity editor. \nOnce this object is selected, a button called \"Combine Selected Meshes\" will appear in the Inspector window. \nWhen this button is clicked, you can combine the selected meshes by calling the CombineMeshes method."
+}
